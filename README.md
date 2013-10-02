@@ -10,3 +10,5 @@ Help me translate the MIUI
 I will commit changes here, in github.
 
 This project can be used with jBART.
+
+License: http://creativecommons.org/licenses/by-nc/2.0/
